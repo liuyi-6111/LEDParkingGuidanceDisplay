@@ -1,0 +1,2 @@
+# LEDParkingGuidanceDisplay
+基于STM32F103C8T6的旋转LED装置，支持动态显示图案指引地下停车场车辆寻位，配套基于Flask开发的网页系统对所有硬件进行管理部署。
