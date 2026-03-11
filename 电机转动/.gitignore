@@ -1,0 +1,10 @@
+Listings/ 
+Objects/ 
+*.uvguix.* 
+*.dep 
+*.crf 
+*.d 
+*.o 
+*.hex 
+*.elf 
+DebugConfig/ 
